@@ -1,0 +1,10 @@
+{
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "name",
+  "resourceNameKEY": "jump-base-1160-30-acl-sd",
+  "cfqridKEY": "1160-30-10530-jcr-acl-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1160-30-10530-jcr-acl-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber10500KEY": "10530",
+  "deletionProtectionFlag10500KEY": "none"
+}
